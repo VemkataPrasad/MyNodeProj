@@ -1,0 +1,11 @@
+{
+    "GCLOUD_PROJECT": "projName",
+    "DATA_BACKEND": "databaseserver",
+    "MYSQL_HOST": "ip or hostname",
+    "MYSQL_PORT": "port number",
+    "MYSQL_USER": "unme",
+    "MYSQL_PASSWORD": "pwd",
+    "INSTANCE_CONNECTION_NAME": "connection string",    
+    "MYSQL_DATABASE": "dbname",
+    "NODE_ENV": "dev or qa or prod"
+}

@@ -1,0 +1,22 @@
+{
+    "db": {
+      "name": "databaseName",
+      "host": "hostName",
+      "port": 0000,
+      "username": "username",
+      "password": "password",
+      "dialect": "mariadb",
+      "pool": {
+        "max": 30,
+        "min": 0,
+        "idle": 10000
+      }
+    },
+    "logger": {
+      "level": "info"
+    },
+    "redis": {
+      "host": "hostname",
+      "port": 0000
+    }
+}
