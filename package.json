@@ -38,7 +38,7 @@
     "q": "^1.5.0",
     "redis": "^2.7.1",
     "run-sequence": "^1.2.2",
-    "sequelize": "^3.30.4",
+    "sequelize": "^5.8.6",
     "sequelize-redis-cache": "^2.0.0",
     "sort-json-array": "*",
     "string": "^3.3.3",
